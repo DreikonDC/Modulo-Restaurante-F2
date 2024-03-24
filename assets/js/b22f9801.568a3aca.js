@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9345],{1511:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Modulo-Restaurante-F2/blog/tags/docusaurus","allTagsPath":"/Modulo-Restaurante-F2/blog/tags","count":4,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5197],{2232:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/Modulo-Restaurante-F2/blog/tags/hello","allTagsPath":"/Modulo-Restaurante-F2/blog/tags","count":2,"unlisted":false}')}}]);
